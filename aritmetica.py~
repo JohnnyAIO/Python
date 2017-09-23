@@ -1,0 +1,3 @@
+#¡/usr/bin/python
+var = "esta es una variable"
+print var

@@ -1,0 +1,9 @@
+class Jonathan:
+valor = inteligencia
+nombre = ""
+def nombrar(self,n):
+    self.nombre = n
+persona = Jonathan()
+persona.nombrar("Jonathan")
+
+print "Hay un muchacho llamado %s y es demasiado %s"%(Jonathan.valor, Jonathan.nombre
