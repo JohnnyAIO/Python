@@ -1,0 +1,12 @@
+Mes 1:
+Total de ganancias: 6600$
+Mes: 2 
+Total de ganancias: 14520$ 
+Mes: 3 
+Total de ganancias: 19800$ 
+Mes: 4 
+Total de ganancias: 26400$ 
+Mes: 5 
+Total de ganancias: 19800$ 
+Mes: 6 
+Total de ganancias: 23760$ 
