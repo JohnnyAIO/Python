@@ -1,0 +1,6 @@
+nombre = input("Ingrese su nombre: ")
+edad = int(input("Ingrese su edad: "))
+saldo = float(input("Ingrese su saldo de cuenta bancaria: "))
+print(nombre)
+print(edad)
+print(saldo)
