@@ -1,0 +1,34 @@
+Mostrar un poco idea: Mostrate unas cosas. Para trabajar como programador "No hace falta la Universidad", La idea es tener proyecto hechos por la Internet.
+Programador -> Crear Sistemas
+Usar Debian, Programas huerfanos, Distribuir la información
+
+Python: Es fácil de entender, en todas las Universidades es importante verlo (History of Python). Ponerte en la lógica, de esta manera aprenderas más rápido. Es el GVM: Tienes que aprender los comandos. Pythontuto.com/Repluit Programar con Python y ver los errores. "Siempre lo voy a poder hacerlo"
+
+
+Jupyter Notebook: Un programa para probar cosas de Python, crean libros, IA, Big Data, Graficos. Guardarlo en Notebook
+
+Namespace:
+TDD: Una variable + otra variable = x
+TDD: Test Drive Development
+
+-> Programar en Inglés. (Django)
+Dominar : 1) Python -> Django, C++. (pygame = VideoJuegos)
+Pagina:  107 - 115 (Terminar)
+OLC
+7:30 AM (Domingo)
+Cambiar la forma de pensar en matemática
+*MainSet
+*Learning to learning
+"En este momento no lo logro comprender"
+
+
+*Guía de como ganar en el Maratón de Programación:
+1) Leer todos los enunciados y seleccionar el ejercicio más sencillo de todos (Hacerlo en un lenguaje no complicado)
+2) Revisar las salidas de los mensajes : "Ojo son sensibles a mayuscula y minuscula."
+3) Practicar ejercicios de programacion (UVE). Son complicados pero vale la pena entenderlos.
+4) Recordar la sintaxis de lectura de datos en una sola variable.
+5) Aplicar Test Driven Development.
+*Canada -> Si eres programador, entonces tendras Visa :D
+GTTS, TDD Python
+Writing Test Driven Development (TDD) code in C++
+hinative.com

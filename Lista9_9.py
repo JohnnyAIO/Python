@@ -8,5 +8,4 @@ Lista = ["ejemplo.txt", "Saludos.txt", "ejercicio1.txt"]
 with open("guardar.txt", "w") as guardar:
     for archivos in Lista:
         print(open(archivos).readlines())
-        x = archivos.readlines()
-        guardar.write(x)
+        guardar.write(archivos.readlines())

@@ -1,8 +1,9 @@
-;Esta linea no debe ser impresa
+Esta linea no debe ser impresa
 
->Esta linea debe ser impresa alineada a la derecha
+Esta linea debe ser impresa alineada a la derecha
 
-*Esta linea debe ser centrada
+Esta linea debe ser centrada
+
 Una linea normal
 
 Otra linea
